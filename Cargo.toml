@@ -1,0 +1,11 @@
+[package]
+name = "solana-vortex"
+version = "0.1.0"
+edition = "2021"
+authors = ["ZengLLQ <zengllq@users.noreply.github.com>"]
+description = "High-throughput off-chain state channel settlement and dispute resolution engine on Solana"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/ZengLLQ/solana-vortex"
+
+[dependencies]
